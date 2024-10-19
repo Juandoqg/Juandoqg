@@ -8,11 +8,11 @@ Soy un apasionado desarrollador de software que se está especializando en el de
 ### 💼 Áreas de experiencia
 
 - **Lenguajes de programación**: Java, C#, C++, Python, JavaScript  
-- **Frameworks**: React, React Native, Django, Tailwind, Bootstrap  
+- **Frameworks**:  Django, React, React Native, flask, Tailwind, Bootstrap  
 - **Tecnologías**: Git, GitHub, JIRA  
 - **Desarrollo móvil**: Aplicaciones Android con Java  
 - **Bases de datos**: MySQL, PostgreSQL, MongoDB, Google Firebase  
-- **Metodologías**: SCRUM  
+- **Metodologías**: Scrum  
 
 ---
 
