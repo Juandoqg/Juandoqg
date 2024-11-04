@@ -1,7 +1,7 @@
 👋 Hola, soy Juan David Quintero Garcia  
 🧑‍💻 Desarrollador de Software Junior | Colombia  
 
-Soy un apasionado desarrollador de software que se está especializando en el desarrollo de aplicaciones web y móviles. Me enfoco en crear soluciones eficientes y escalables, con un alto énfasis en la seguridad y la calidad del software.
+Soy un apasionado desarrollador de software junior que se está especializando en el desarrollo de aplicaciones web y móviles.
 
 ---
 
