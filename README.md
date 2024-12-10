@@ -44,4 +44,4 @@ Mi objetivo es seguir creciendo como desarrollador, especializándome en ciberse
 
 Me encanta trabajar en nuevos proyectos y aprender nuevas tecnologías, ¡así que no dudes en echar un vistazo a mis repositorios!
 
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Juandoqg&show_icons=true&theme=radical)
