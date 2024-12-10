@@ -28,7 +28,7 @@ Soy un apasionado desarrollador de software junior que se está especializando e
 
 ### 🎓 Formación y certificaciones
 - Tecnólogo en Desarrollo de Software.
-- Estudiante de Ingeniera de sistemas.
+- Estudiante de Ingenieria de sistemas.
 - Curso de Junior Cybersecurity Analyst Career Path  
 - Curso en Fundamentos de Scrum  
 
