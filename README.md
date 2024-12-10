@@ -27,8 +27,8 @@ Soy un apasionado desarrollador de software junior que se está especializando e
 ---
 
 ### 🎓 Formación y certificaciones
-
-- Estudiante de Tecnología en Desarrollo de Software de último semestre.  
+- Tecnólogo en Desarrollo de Software.
+- Estudiante de Ingeniera de sistemas.
 - Curso de Junior Cybersecurity Analyst Career Path  
 - Curso en Fundamentos de Scrum  
 
@@ -43,5 +43,3 @@ Mi objetivo es seguir creciendo como desarrollador, especializándome en ciberse
 ### 🌱 Siempre aprendiendo
 
 Me encanta trabajar en nuevos proyectos y aprender nuevas tecnologías, ¡así que no dudes en echar un vistazo a mis repositorios!
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Juandoqg&show_icons=true&theme=radical)
