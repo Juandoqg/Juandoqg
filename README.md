@@ -1,15 +1,15 @@
 👋 Hola, soy Juan David Quintero Garcia  
-🧑‍💻 Desarrollador de Software Junior | Colombia  
+🧑‍💻 Desarrollador de Software | Colombia  
 
-Soy un apasionado desarrollador de software junior que se está especializando en el desarrollo de aplicaciones web y móviles.
+Soy un apasionado desarrollador de software que se está especializando en el desarrollo de aplicaciones web y móviles.
 
 ---
 
 ### 💼 Áreas de experiencia
 
 - **Lenguajes de programación**: Java, C#, C++, Python, JavaScript  
-- **Frameworks**:  Django, React, React Native, flask, Tailwind, Bootstrap  
-- **Tecnologías**: Git, GitHub, JIRA  
+- **Frameworks**:  Django, flask, Nestjs, React Native, React , Angular 
+- **Tecnologías**: Git, GitHub, JIRA , Docker
 - **Desarrollo móvil**: Aplicaciones Android con Java  
 - **Bases de datos**: MySQL, PostgreSQL, MongoDB, Google Firebase  
 - **Metodologías**: Scrum  
